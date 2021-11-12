@@ -1,0 +1,2 @@
+# globalacademy
+Global Academy FiveM
